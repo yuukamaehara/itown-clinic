@@ -1,0 +1,191 @@
+/* 
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com 
+Twitter: @rich_clark
+*/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+li{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+div{
+    display: block;
+}
+
+.top {
+    width: 100%;
+}
+
+.style {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+    padding-top: 70px;
+}
+
+
+/* ＝＝＝＝＝headerー＝＝＝＝＝ */
+
+#header{
+
+    max-width: 960px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    margin: 0 auto;
+    padding: 0 4%;
+    background-color:white;
+    position: fixed;
+}
+
+
+#header ul{
+    display: flex;
+    padding: 10px 0;
+}
+
+#header li{
+    margin-left: 30px;
+}
+
+#header li img.icon01{
+    width: 40px;
+    margin: 10px;
+}
+
+#header li img.icon02{
+    width:30pX
+}
+
+
+
+
+/* .buttonErea01 {
+    width: 100%;
+} */
+
+
+/* 
+.btn01{
+    width: 49.2%;
+    /* bottom: 20px;  
+}
+
+.btn02{
+    width: 49.2%;
+} */
+
+/* ＝＝＝＝＝contents＝＝＝＝＝ */
+
+.contents01 {
+    width: 100%;
+}
+
+.contents001 {
+    width: 100%;
+}
+
+.contents02 {
+    width: 100%;
+}
+
+.contents002 {
+    width: 100%;
+}
+
+
+.contents03 {
+    width: 100%;
+}
+
+.contents003 {
+    width: 100%;
+}
+
+.contents04 {
+    width: 100%;
+}
+
+.contents004 {
+    width: 100%;
+}
+
+
+.contents05 {
+    width: 100%;
+    position: relative;
+}
+
+.contents005 {
+    width: 100%;
+}
+
+.button_contact005{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    
+    position: absolute;
+    top: 88%;
+    left:20%;
+}
+
+
+.contents06 {
+    width: 100%;
+}
+
+.contents006  {
+    width: 100%;
+}
+
+.contents07 {
+    width: 100%;
+}
+
+.contents007 {
+    width: 100%;
+}
+
+.contents08 {
+    width: 100%;
+}
+
+.contents008 {
+    width: 100%;
+}
+
